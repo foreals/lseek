@@ -1,0 +1,2 @@
+0 5 12 18 24 34 43 54 60 68
+cat\0house\0lake\0full\0interest\0airport\0concerned\0rich\0theory\0bad\0

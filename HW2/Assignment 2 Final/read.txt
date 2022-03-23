@@ -1,0 +1,4 @@
+compile with: gcc -o lseek lseek.c
+
+Could not get insert to work.
+
